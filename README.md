@@ -1,2 +1,2 @@
 # images & words
-Upload images for GitHub Wiki
+Upload images for Configuration Management GitHub Wiki
